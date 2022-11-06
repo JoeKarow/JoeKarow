@@ -2,13 +2,15 @@
 
 ### Hey, I'm Joe!
 
-- 🔭 I’m currently working on building personal projects and contributing to open source.
-- 🌱 I’m always learning full stack web development.
-- 🤔 I’m looking for help with getting started in freelancing.
+- 👨🏻‍💻 Lead Engineer @ InReach [[GitHub](https://github.com/weareinreach)] [[Website](https://inreach.org)]
 - 📫 How to reach me: hello@joekarow.dev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like my humor how I like my coffee... dark.
 
+<!--- - 🌱 I’m always learning full stack web development. --->
+<!--- - 🤔 I’m looking for help with getting started in freelancing. --->
 <!--- - 👯 I’m looking to collaborate on ... --->
-
 <!--- - 💬 Ask me about ... --->
+
+
+[![@joekarow's Holopin board](https://holopin.me/joekarow)](https://holopin.io/@joekarow)
