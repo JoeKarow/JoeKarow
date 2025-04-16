@@ -2,11 +2,11 @@
 
 ### Hey, I'm Joe!
 
-- 👨🏻‍💻 Lead Engineer @ InReach [[GitHub](https://github.com/weareinreach)] [[Website](https://inreach.org)]
+<!--- - 👨🏻‍💻 Lead Engineer @ InReach [[GitHub](https://github.com/weareinreach)] [[Website](https://inreach.org)] --->
 - 📫 How to reach me: hello@joekarow.dev
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like my humor how I like my coffee... dark.
-- 🐘 <a rel="me" href="https://mas.to/@JoeKarow">Follow me on Mastodon</a>
+- 🦋 Follow me on <a rel="me" href="https://bsky.app/profile/joekarow.dev">Bluesky</a>, but don't expect much 🙂
 
 <!--- - 🌱 I’m always learning full stack web development. --->
 <!--- - 🤔 I’m looking for help with getting started in freelancing. --->
